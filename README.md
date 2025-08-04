@@ -19,8 +19,6 @@ O uso foi exclusivo para fins **educacionais**, **laboratoriais** e **sem qualqu
 - **Toolkit**: [SET - Social-Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 - **Editor**: Terminal interativo
 - **Browser usado para simulação**: MicrosoftEde
-- **Servidor de captura**: Porta 80 HTTP padrão
-- **Rede local (NAT)** com IP interno `192.168.0.90`
 
 ---
 
