@@ -55,7 +55,6 @@ O uso foi exclusivo para fins **educacionais**, **laboratoriais** e **sem qualqu
 - Entrada de dados falsos: login `miguelgengo`, senha `12345`
 
 ---
-
 ## 🖥️ Resultado Capturado (comprovação visual)
 
 > Abaixo, a imagem obtida diretamente da execução da ferramenta após um "hit":
